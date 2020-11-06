@@ -24,10 +24,10 @@ Untuk membuat aplikasi yang menentukan bilangan terbesar dari 3 bilangan yang us
 
 
 Pada repository ini saya akan menjelaskan alur didalam **Flowchart** yang telah saya buat. Untuk file **flowchart** bisa dilihat pada link berikut : 
-[Tugas_Pertemuan_7_Tugas_Pertemuan_7](Flowchart_part7.pdf)
+[Tugas_Pertemuan_7](Flowchart_part7.pdf)
 <br>
 
-berikut source code yang saya buat :
+berikut source code yang saya buat atau klik link berikut ( [Labspy02](latihanku.py) : <br>
 
 ``` python
 print("Masukan Bilangan ke-1 : ")
@@ -88,7 +88,7 @@ Dari syntax tersebut akan menghasilkan output : <br>
 * Ket : <br>
 ***Kondisi if else*** adalah kondisi dimana jika pernyataan benar *True*, maka kode didalam if akan dieksekusi, tetapi jika bernilai salah *False* maka akan mengeksekusi kode didalam else.
 
-### ============ Thank You ============ <br>
-##       ==Tugas Praktikum 2_Modul 2==
-##          ==Repository_labspy02==
+### ***============ Thank You ============***
+##      ***==Tugas Praktikum 2_Modul 2==***
+##         ***==Repository_labspy02==***
 
