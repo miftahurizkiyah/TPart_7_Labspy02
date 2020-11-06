@@ -91,5 +91,5 @@ Dari syntax tersebut akan menghasilkan output : <br>
 ### ***============ Thank You ============***
 ###      ***==Tugas Praktikum 2_Modul 2==***
 ###        ***==Repository_labspy02==***
-#### ***Miftahu RIzkiyah - 312010014***
-### ========================================
+#### ==***Miftahu RIzkiyah - 312010014***==
+### ================================
