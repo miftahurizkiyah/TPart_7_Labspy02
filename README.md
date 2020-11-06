@@ -27,7 +27,7 @@ Pada repository ini saya akan menjelaskan alur didalam **Flowchart** yang telah 
 [Tugas_Pertemuan_7](Flowchart_part7.pdf)
 <br>
 
-berikut source code yang saya buat atau klik link berikut ( [Labspy02](latihanku.py) : <br>
+berikut source code yang saya buat atau klik link berikut ( [Labspy02](lathanku.py) ) : <br>
 
 ``` python
 print("Masukan Bilangan ke-1 : ")
@@ -89,6 +89,7 @@ Dari syntax tersebut akan menghasilkan output : <br>
 ***Kondisi if else*** adalah kondisi dimana jika pernyataan benar *True*, maka kode didalam if akan dieksekusi, tetapi jika bernilai salah *False* maka akan mengeksekusi kode didalam else.
 
 ### ***============ Thank You ============***
-##      ***==Tugas Praktikum 2_Modul 2==***
-##         ***==Repository_labspy02==***
-
+###      ***==Tugas Praktikum 2_Modul 2==***
+###        ***==Repository_labspy02==***
+#### ***Miftahu RIzkiyah - 312010014***
+### ========================================
