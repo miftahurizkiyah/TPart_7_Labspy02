@@ -20,7 +20,10 @@ Pada pertemuan ke-7 ini saya membuat tugas yang diberikan oleh dosen Bahasa Pemr
 Untuk membuat aplikasi yang menentukan bilangan terbesar dari 3 bilangan yang user inputkan menggunakan bahasa program python.
 <br>
 
-Pada repository ini saya akan menjelaskan alur didalam **Flowchart** yang telah saya buat. Untuk file **flowchat** bisa dilihat pada link berikut : 
+![Tugas_Praktikum2](pict/Tugas_Praktikum2(labspy02).PNG) <br>
+
+
+Pada repository ini saya akan menjelaskan alur didalam **Flowchart** yang telah saya buat. Untuk file **flowchart** bisa dilihat pada link berikut : 
 [Tugas_Pertemuan_7_Tugas_Pertemuan_7](Flowchart_part7.pdf)
 <br>
 
@@ -45,6 +48,10 @@ Dari source code tersebut akan menghasilkan output :
 
 ![Bilangan1>bilangan2&3](pict/Bilangan1_lebih_besar_dari_bilangan2_dan_bilangan3.PNG)
 <br>
+* Ket : <br>
+Kondisi ***if*** digunakan untuk mengeksekusi kode jika kondisi bernilai benar,True.
+<br>
+
 dan jika (bilangan 2>bilangan 1) and (bilangan 2>bilangan 3) :
 dengan source code :
 
@@ -55,11 +62,28 @@ elif (bilangan2>bilangan1) and ( bilangan2 > bilangan3 ) :
 Dari source code tersebut akan menghasilkan output : 
 ![(Bilangan2>Bilangan1),(Bilangan2>Bilangan3)](pict/Bil2_lebih_besar_dari_bil1_dan_bil3.PNG)
 <br>
-dan jika (bilangan 3>bilangan1) and (bilangan 3>bilangan 2) dengan source code/syntax :
+<br>
+
+Selanjutnya jika (bilangan 3>bilangan1) and (bilangan 3>bilangan 2) dengan source code/syntax :
 
 ``` python
 elif ( bilangan3 > bilangan1) and ( bilangan3 > bilangan2 ) :
     print ("Bilangan 3 lebih Besar dari Bilangan 1 dan 2")
 ```
-<br>
 Dari source code tersebut akan menghasilkan output :
+![(Bilangan3>Bilangan1),(Bilangan3>Bilangan2)](pict/Bil3_lebih_besar_dari_bil1_dan_bil2.PNG)
+<br>
+* Ket : <br>
+Pengambilan keputusan **(Kondisi if elif)** merupakan lanjutan/percabangan logika dari ***kondisi if***. Dengan elif kita bisa membuat kode program yang akan menyeleksi beberapa kemungkinan yang bisa terjadi.
+
+Jika semua bilangan bernilai sama kita akan menggunakan kondisi ***else*** dengan source code berikut : <br>
+``` python
+else :
+    print ("Semua Bilangan Sama Besarnya")
+```
+
+Dari syntax tersebut akan menghasilkan output : <br>
+![Semua_Bilangan_Sama_Besarnya](pict/Semua_bilangan_Sama_Besarnya.PNG).
+<br>
+* Ket : <br>
+***Kondisi if else*** adalah kondisi dimana jika pernyataan benar *True*, maka kode didalam if akan dieksekusi, tetapi jika bernilai salah *False* maka akan mengeksekusi kode didalam else.
