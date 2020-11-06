@@ -21,7 +21,7 @@ Untuk membuat aplikasi yang menentukan bilangan terbesar dari 3 bilangan yang us
 <br>
 
 Pada repository ini saya akan menjelaskan alur didalam **Flowchart** yang telah saya buat. Untuk file **flowchat** bisa dilihat pada link berikut : 
-:[Tugas_Pertemuan_7_Tugas_Pertemuan_7](Flowchart_part7.pdf)
+[Tugas_Pertemuan_7_Tugas_Pertemuan_7](Flowchart_part7.pdf)
 <br>
 
 berikut source code yang saya buat :
@@ -48,13 +48,18 @@ Dari source code tersebut akan menghasilkan output :
 dan jika (bilangan 2>bilangan 1) and (bilangan 2>bilangan 3) :
 dengan source code :
 
-```python
-elif ( bilangan2 > bilangan1) and ( bilangan2 > bilangan3 ) :
+``` python
+elif (bilangan2>bilangan1) and ( bilangan2 > bilangan3 ) :
     print ("Bilangan 2 lebih Besar dari Bilangan 1 dan 3")
 ```
 Dari source code tersebut akan menghasilkan output : 
 ![(Bilangan2>Bilangan1),(Bilangan2>Bilangan3)](pict/Bil2_lebih_besar_dari_bil1_dan_bil3.PNG)
+<br>
+dan jika (bilangan 3>bilangan1) and (bilangan 3>bilangan 2) dengan source code/syntax :
 
- 
-
-
+``` python
+elif ( bilangan3 > bilangan1) and ( bilangan3 > bilangan2 ) :
+    print ("Bilangan 3 lebih Besar dari Bilangan 1 dan 2")
+```
+<br>
+Dari source code tersebut akan menghasilkan output :
