@@ -88,9 +88,7 @@ Dari syntax tersebut akan menghasilkan output : <br>
 * Ket : <br>
 ***Kondisi if else*** adalah kondisi dimana jika pernyataan benar *True*, maka kode didalam if akan dieksekusi, tetapi jika bernilai salah *False* maka akan mengeksekusi kode didalam else.
 
-<br>
-
-***************** Thank You *****************
-       ***Tugas Praktikum 2_Modul 2*** <br>
-          ***Repository_labspy02***
+### ============ Thank You ============ <br>
+##       ==Tugas Praktikum 2_Modul 2==
+##          ==Repository_labspy02==
 
