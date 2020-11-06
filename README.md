@@ -27,7 +27,7 @@ Pada repository ini saya akan menjelaskan alur didalam **Flowchart** yang telah 
 [Tugas_Pertemuan_7](Flowchart_part7.pdf)
 <br>
 
-berikut source code yang saya buat atau klik link berikut ( [Labspy02](lathanku.py) ) : <br>
+berikut source code yang saya buat atau klik link berikut ( [Labspy02](Praktikum02.py) ) : <br>
 
 ``` python
 print("Masukan Bilangan ke-1 : ")
