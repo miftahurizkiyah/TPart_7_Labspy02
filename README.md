@@ -91,6 +91,6 @@ Dari syntax tersebut akan menghasilkan output : <br>
 <br>
 
 ***************** Thank You *****************
-       ***Tugas Praktikum 2_Modul 2***
+       ***Tugas Praktikum 2_Modul 2*** <br>
           ***Repository_labspy02***
 
