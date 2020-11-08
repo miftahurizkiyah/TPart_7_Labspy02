@@ -88,6 +88,13 @@ Dari syntax tersebut akan menghasilkan output : <br>
 * Ket : <br>
 ***Kondisi if else*** adalah kondisi dimana jika pernyataan benar *True*, maka kode didalam if akan dieksekusi, tetapi jika bernilai salah *False* maka akan mengeksekusi kode didalam else.
 
+
+Ada beberapa latihan juga dari materi yang diberikan oleh dosen :  
+1. [link_modul_latihan1](Modul2_Latihan1.py)
+2. [link_modul_latihan2](Modul2_Latihan2.py)
+3. [link_modul_latihan3](Modul2.Latihan3.py)
+
+
 ### ***============ Thank You ============***
 ###      ***==Tugas Praktikum 2_Modul 2==***
 ###        ***==Repository_labspy02==***
